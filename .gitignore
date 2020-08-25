@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.idea/
+venv/
+Parte2/
+Parte3/
+Parte4/
+Parte5/
+Parte6/
+Parte7/
